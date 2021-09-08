@@ -1,6 +1,6 @@
 ## Introduction
 
-<!--
+--
 ### Hi there 👋   
 
  - 💻   **I'm a Project Manager in IT field**    
@@ -13,4 +13,3 @@
 
 - 😸 **Linkedin site ...**[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaewon-jeong-928aa1184/)](https://www.linkedin.com/in/chaewon-jeong-928aa1184/)
 
--->
