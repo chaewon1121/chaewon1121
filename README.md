@@ -1,6 +1,5 @@
 ## Introduction
 
---
 ### Hi there 👋   
 
  - 💻   **I'm a Project Manager in IT field**    
